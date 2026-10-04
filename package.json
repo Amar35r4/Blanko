@@ -1,0 +1,8 @@
+{
+  "name":"stailek-store",
+  "version":"1.0.0",
+  "private":true,
+  "description":"Stailek clothing store with real orders and admin dashboard",
+  "scripts":{"start":"node server.js"},
+  "engines":{"node":">=18"}
+}
